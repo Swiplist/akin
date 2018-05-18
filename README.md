@@ -7,6 +7,10 @@
 
 > Recommendation Engine Library based on Collaborative Filtering. Node.js implementation using MongoDB via Mongoose.
 
+Forked and modified from `@asymmetrik/akin` for our `Swiplist-Server` project.
+
+Modified `sample.service.js` to allow filtering by item types as well as loosening some of the parameters for suggestions.
+
 > Provides hooks for logging user activity on items referenced by an ObjectID and an optional item type. Additional methods provide execution of a scalable, collaborative filtering algorithm that outputs recommendation results for each user into a namespaced Mongo collections. These results can then be retrieved and integrated into the application as desired.
 
 ## Table of Contents

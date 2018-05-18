@@ -18,7 +18,7 @@ module.exports = {
 		"no-trailing-spaces": ["error"],
 		"no-unused-vars": ["error", { "vars": "all", "varsIgnorePattern": "extend|should", "args": "none" }],
 		"quotes": ["error", "single"],
-		"linebreak-style": ["error", "unix"],
+		// "linebreak-style": ["error", "unix"],
 		"semi": ["error", "always"],
 		"comma-dangle": ["error", "never"]
 	},
